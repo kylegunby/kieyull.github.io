@@ -5,4 +5,11 @@
   width: 100%;
   color: lighten($text-color, 30%);
   font-size: 0.9em;
+  p { margin-bottom: 0.5em; }
+}
+
+.footer-icons {
+  margin-left: 0.6em;
+  a { color: #858585; }
+  li { display: inline-block; margin-right: 0.5em; }
 }
